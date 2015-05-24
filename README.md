@@ -28,9 +28,7 @@ Manual download (.zip format) is possible here:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-
-The run.analysis.R script does the following:
-- There three functions: check_package, check_dataset, and analysis
+The run.analysis.R script has three functions: check_package, check_dataset, and analysis
 
 # check_package
 - Checks if reshape2 and dplyr packages are installed.
